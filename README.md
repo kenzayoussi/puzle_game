@@ -520,7 +520,7 @@ void Widget::on_nexttogame_clicked()
 
 Our Team -[DARBAL nour-elhouda](https://github.com/teamkhaoulanour) -[MZOUDI Khaoula](https://github.com/KhaoulaMzoudi) -[Kenza Youssi](https://github.com/)
 
-Project Link: [Puzzle Game](https://github.com/kenzayoussi/puzle_game/main/README.md)
+Project Link: [Puzzle Game](https://github.com/kenzayoussi/puzle_game/blob/main/README.md)
 
 Encadré par : [Mr.Belcaid Anass](https://)
 
