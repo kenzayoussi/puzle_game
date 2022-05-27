@@ -504,7 +504,9 @@ void Widget::on_nexttogame_clicked()
  
   
 <div align="center">
-    <img src="images/gui.png" alt="Logo" width="500" height="400">
+  <img width="424" alt="Screen Shot 2022-05-27 at 13 00 02" src="https://user-images.githubusercontent.com/94130783/170695881-ec1fece9-fc68-45c4-89f9-cf19fee4fb52.png">
+</img>
+ 
   
 </div>
 
@@ -518,7 +520,7 @@ void Widget::on_nexttogame_clicked()
 
 Our Team -[DARBAL nour-elhouda](https://github.com/teamkhaoulanour) -[MZOUDI Khaoula](https://github.com/KhaoulaMzoudi) -[Kenza Youssi](https://github.com/)
 
-Project Link: [Puzzle Game](https://https://github.com/Darbal-Nour-elhouda/puzzle-game/edit/main/README.md)
+Project Link: [Puzzle Game]()
 
 Encadré par : [Mr.Belcaid Anass](https://)
 
